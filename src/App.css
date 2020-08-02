@@ -1,3 +1,11 @@
+html,
+body,
+#root {
+  min-height: 100%;
+  background-color: rgb(18, 2, 32);
+  color: honeydew;
+  font-family: "Press Start 2P", cursive;
+}
 .infoButton{
     position: absolute;
     top:5px;
@@ -5,8 +13,7 @@
     width: 45px;
   }
   .infoBox {
-    font-family: "Press Start 2P", cursive !important;
-    font-size: 9px !important;
+    font-size: 9px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,7 +25,7 @@
     border-radius: 8px;
   }
   .infoBox > h6 {
-    font-size: 11px !important;
+    font-size: 11px;
     margin: 0px;
     margin-bottom: 5px;
     text-decoration-line: underline;
@@ -31,8 +38,7 @@
     text-align: left;
   }
   .mainContainer {
-    font-family: "Press Start 2P", cursive !important;
-    font-size: 11px !important;
+    font-size: 11px;
     align-items: center;
     position: relative;
     height: 100vh;

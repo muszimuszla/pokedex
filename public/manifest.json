@@ -1,0 +1,5 @@
+{
+  "name": "Pokedex",
+  "start_url": ".",
+  "display": "standalone"
+}
