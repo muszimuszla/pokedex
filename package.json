@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://muszimuszla.github.io/pokedex",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
